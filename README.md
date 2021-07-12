@@ -1,7 +1,7 @@
 # Merchant_app
 Merchant App using Nodejs and Mysql DB
 
-#Installation
+#Merchant_app Installation
 npm install
 
 #run the App
